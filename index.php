@@ -12,8 +12,8 @@
   <link rel="stylesheet" href="static/css/style.css">
 </head>
 <body>
-    <?php include(INCLUDE_PATH . "/layouts/navbar.php") ?>
-    <?php include(INCLUDE_PATH . "/layouts/messages.php") ?>
+    <?php include(INCLUDE_PATH . "/navbar.php") ?>
+    <?php include(INCLUDE_PATH . "/messages.php") ?>
     <div class="container">
       <div class="nav-wrapper">
         <div class="left-side">
@@ -33,6 +33,6 @@
         </div>
       </div>
     </div>
-    <?php include(INCLUDE_PATH . "/layouts/footer.php") ?>
+    <?php include(INCLUDE_PATH . "/footer.php") ?>
     
 
